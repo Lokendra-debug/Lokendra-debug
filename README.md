@@ -1,4 +1,4 @@
-#### Hi there 👋
+### Hi there 👋
 
 # Welcome to [Lokendra Singh](https://github.com/Lokendra-debug) profile! <a href="https://github.com/Lokendra-debug"><img src="https://user-images.githubusercontent.com/114337213/218177562-625f81fc-c4bd-4a4d-a56b-0d8d6c3d6d5e.png" width="40px"></a>
 
@@ -23,7 +23,9 @@ That's why I like to make things that make a difference.
 - 👨‍🎓 I'm a **Full Stack Web Developer**
 - 📬 How to reach me: [thelokendrasinghrathore@gmail.com](mailto:thelokendrasinghrathore@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1ej4emtKkA48Pkft0AFDmuEmdI3CJZreA/view?usp=sharing)
-- https://lokendra-debug.github.io/
+- <a href="https://lokendra-debug.github.io/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
+    </a>
 ---
 
 ## 🛠️ My favorite tools
