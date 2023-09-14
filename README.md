@@ -23,7 +23,7 @@ That's why I like to make things that make a difference.
 - 👨‍🎓 I'm a **Full Stack Web Developer**
 - 📬 How to reach me: [thelokendrasinghrathore@gmail.com](mailto:thelokendrasinghrathore@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1ej4emtKkA48Pkft0AFDmuEmdI3CJZreA/view?usp=sharing)
-- [Portfolio](https://lokendra-debug.github.io/)
+- https://lokendra-debug.github.io/
 ---
 
 ## 🛠️ My favorite tools
