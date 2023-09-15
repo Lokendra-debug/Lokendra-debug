@@ -69,6 +69,7 @@ That's why I like to make things that make a difference.
 |-------------|----------------|------------|------------|-----------------------------------------------------|
 | Chess Battles  | Chess-Battles: Elevate chess battles with live video interaction, chat, and AI opponents. Enter room number to challenge players worldwide. | HTML, CSS, JavaScript, NodeJs, Express, Socket.io, WebRTC, Redis, MongoDB  | Online Game Type Application  | - [Deployed](https://leafy-crisp-359f48.netlify.app/) - [GitHub](https://github.com/Lokendra-debug/Chess-Battles) |
 | QR Insight  | It is a web application that allows users to generate and scan QR codes, as well as provide analysis on QR code usage. | qrcode, html5qr code, socket.io, bcrypt, jwt, oAuth, HTML, CSS, JavaScript, NodeJs, Express, Redis, MongoDB, Mongoose | QR Code Generator and Scanner  | - [Deployed](https://glistening-kringle-f6d59c.netlify.app/) - [GitHub](https://github.com/Lokendra-debug/QR-Insight-full) |
+| Quick Quizzer  | The Fullstack Quiz Builder allows users to create, take, and manage quizzes with ease. It features user registration, quiz creation, answers the question, and leaderboards. This interactive platform enhances engagement and learning. | bcrypt, jwt, oAuth, HTML, CSS, JavaScript, NodeJs, Express, Redis, MongoDB, Mongoose | Quick Quizzer allows users to create, take, and manage quizzes with ease.  | - [Deployed](https://quizfrontend-lokendra-debug.vercel.app/) - [GitHub](https://github.com/Lokendra-debug/Fullstack-quiz-builder-application) |
 
 
 ---
